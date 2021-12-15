@@ -9,7 +9,7 @@ sh ./install.sh
 Note : if you had any problem in installation use method N2
 ## Installation : (method N2)
 ```bash
-cd ~/goinfre/
+cd 
 ```
 ```bash
 curl -o node-v16.13.1-darwin-x64.tar.gz https://nodejs.org/dist/v16.13.1/node-v16.13.1-darwin-x64.tar.gz
@@ -18,7 +18,7 @@ curl -o node-v16.13.1-darwin-x64.tar.gz https://nodejs.org/dist/v16.13.1/node-v1
 tar -xf node-v16.13.1-darwin-x64.tar.gz
 ```
 ```bash
-echo "export PATH=~/goinfre/node-v16.13.1-darwin-x64/bin/:\$PATH" >> ~/.zshrc && source ~/.zshrc
+echo "export PATH=~/node-v16.13.1-darwin-x64/bin/:\$PATH" >> ~/.zshrc && source ~/.zshrc
 ```
 ```bash
 exit && zsh
