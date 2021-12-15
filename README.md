@@ -4,6 +4,7 @@ installation of Nodejs in 1337 Mac directly in goinfre :
 
 ```bash
 git clone git@github.com:BleedTheFreak/Nodejs-42.git
+cd Nodejs-42
 sh ./install.sh
 ```
 Note : if you had any problem in installation use method N2
