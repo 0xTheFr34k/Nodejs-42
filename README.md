@@ -23,5 +23,8 @@ echo "export PATH=~/node-v16.13.1-darwin-x64/bin/:\$PATH" >> ~/.zshrc && source 
 exit && zsh
 ```
 ```bash
+rm -rf node-v16.13.1-darwin-x64.tar.gz Nodejs-42
+```
+```bash
 node -v
 ```
