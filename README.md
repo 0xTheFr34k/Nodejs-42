@@ -1,5 +1,5 @@
 # Nodejs 42
-installation of Nodejs in 1337 Mac directly in goinfre :
+installation of Nodejs in 1337 Mac:
 ## Installation : (method N1)
 
 ```bash
