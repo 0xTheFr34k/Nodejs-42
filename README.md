@@ -3,7 +3,7 @@ installation of Nodejs in 1337 Mac :
 ## Installation : (method N1)
 
 ```bash
-https://github.com/BleedTheFreak/Nodejs-42.git
+git clone https://github.com/BleedTheFreak/Nodejs-42.git
 cd Nodejs-42
 sh ./install.sh
 ```
